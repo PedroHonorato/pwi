@@ -1,10 +1,8 @@
 # Github
 ## Primeiro Projeto usando versão
-![https://github.com/favicon.ico] (https://github.com/favicon.ico)
+![Logo](https://github.com/favicon.ico)
 
-Ajuda: [Git] (https://git-scm.com/doc)
+https://github.com/favicon.ico
 
 
-te amo
-muito
 
